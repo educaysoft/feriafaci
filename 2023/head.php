@@ -3,8 +3,6 @@
 
 <main style="width:100%">
 
-
-
 <nav class="navbar bg-light" aria-label="Light offcanvas navbar" style="z-index:7; ">
     <div class="container-xxl">
 <a class="navbar-brand" href="https://congresoutlvte.org/facae/2023/" target="_blank">
@@ -81,16 +79,7 @@
 
 
 </map>  
-<img src="images/portadaholguin.jpeg" class="img-fluid" usemap="#portada"  alt="portada">
-<!---
-<div   id="intro-example"  class="p-5 text-center bg-image" usemap="#portada"   style="  background-color:rgb(123,203,158);background-size:100% auto;background-position:center top; background-repeat:no-repeat; background-image: url('images/portadaholguin.jpeg');" >
-	
-
-  
-
-</div>
---->
-
+<img src="images/portada1.jpg" class="img-fluid" usemap="#portada"  alt="portada">
 
   <div class="social">
 		<ul>

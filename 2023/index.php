@@ -2,13 +2,13 @@
 <head>
 <title>IV Congreso Internacional Ciencias Administrativas y Economicas</title>
 	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-	<meta name="description" content=""IV Congreso Internacional Ciencias Administrativas y Económicas" />
+	<meta name="description" content="Feria de Ciencias FACI 2023" />
 	<meta property="og:locale" content="es_EC" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="IV Congreso Internacional Ciencias Administrativas y Económicas" />
-	<meta property="og:description" content="IV Congreso Internacional Ciencias Administrativas y Económicas" />
+	<meta property="og:title" content="Feria de Ciencias FACI 2023" />
+	<meta property="og:description" content="Feria de Ciencias FACI 2023" />
 	<meta property="og:url" content="https://www.congresoute.org/" />
-	<meta property="og:site_name" content="FACULTAD CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS" />
+	<meta property="og:site_name" content="FACULTAD DE INGENIERIAS" />
 	<meta property="article:modified_time" content="2023-12-14T21:51:01+00:00" />
 	<meta property="og:image" content="https://congresoutlvte.org/facae/2023/images/logo.png" />
 	<meta property="og:image:width" content="100" />
@@ -245,10 +245,6 @@ include_once("head.php");
 
 <div style="display:flex;flex-direction: column; background-color: white;">
 
-
-<?php
-//include_once("zoom.php");
-?>
 
 
 <?php
