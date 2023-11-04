@@ -10,8 +10,8 @@
 
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Coordinadores de los Ejes temáticos</h1>
-        <p class="lead text-muted">IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS - UTLVTE.</p>
+        <h1 class="fw-light">Proyecto cientificos presentados en la Feria</h1>
+	<p class="lead text-muted">20 proyecto científicos de las carreras de Tecnología de la Información, Mecánica, Eléctrica y Química.</p>
       </div>
     </div>
 
@@ -36,10 +36,10 @@
 
         <div class="col">
           <div class="card shadow-sm">
-            <img src="images/QuinonezOlga.jpg">
+            <img src="images/Proyecto2.png">
 
             <div class="card-body">
-              <p class="card-text"><strong>Quiñonez Guagua Olga</strong>  <br>2.-Calidad de la Gestión Innovadora y desruptiva de los negocios&nbsp</p>
+              <p class="card-text"><strong>POFECI</strong>  <br>2.-Portal web para la información y difución de proyectos científicos presentados en las ferias de FACI</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'" disabled    type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
@@ -51,10 +51,10 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img src="images/HolguinCarlos.jpg">
+            <img src="images/Proyecto3.jpg">
 
             <div class="card-body">
-              <p class="card-text"><b>Holguin Cedeño Carlos</b><br>3.-Tecnología y su relación con el crecimiento  y el desarrollo económico.</p>
+              <p class="card-text"><b>Protesis</b><br>3.-Protesis de mano que reaccionan a señales neuronaleso.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button onclick="location.href='https://drive.google.com/file/d/11G1KDWITAM6KV_xKlIRnh6izpUOSE1xm/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
@@ -68,10 +68,10 @@
 
 <div class="col">
           <div class="card shadow-sm">
-            <img src="images/AyoviJorgerly.jpg">
+            <img src="images/Proyecto4.png">
 
             <div class="card-body">
-              <p class="card-text"><strong>Ayovi Caicedo Jorgeli</strong> <br>4.-Economía del siglo XXI: Economía circular y en colores.</p>
+              <p class="card-text"><strong>Revista Digital</strong> <br>4.-Revista Informativa Digital para la UTLVTE.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view'" disabled  type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
