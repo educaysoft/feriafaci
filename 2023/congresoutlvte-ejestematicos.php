@@ -83,13 +83,13 @@
  <div class="my-3 p-3 bg-body rounded shadow-sm">
 <ol id="lista5">
     <li> <b style="color:red" >Tecnología de la Información :-</b>  <i> Desarrollo de Software y Aplicaciones.</i><br> Este eje temático se enfoca en el diseño, desarrollo y mantenimiento de software y aplicaciones para diversas plataformas y dispositivos.</li>
-    <li><b style="color:red">Tecnología de la Información</b><i>Seguridad Informática y Redes.</i><br>Este eje se centra en proteger sistemas, redes y datos contra amenazas cibernéticas. </li>
-    <li><b style="color:blue">Mecánica</b><i>Diseño y Manufactura</i><br>Este eje temática se centra en el diseño conceptual, modelado y fabricación de maquinarias y sistemas mecánicos. </li>
-    <li><b style="color:blue">Mecánica</b><i>Dinámica y control de sistemas.</i><br>Este eje tiene que ver con la exploración de el movimiento y el comportamiento de los sistemas mecánicos.</li> 
-    <li><b style="color:green">Eléctrica</b><i>Electrónica y sistemas embebidos.</i><br> Este eje temático se enfoca en el diseño y desarrollo de circuitos electrónicos y sistemas embebidos. </li> 
-    <li><b style="color:green">Eléctrica</b><i>Energía y potencia.</i><br>En este eje, consiste en la generación, transmisión y distribución de energía eléctrica, incluyendo el estudio de sistemas de energía renovable como la energía solar y eólica.</li> 
-    <li><b style="color:fuchsia">Química</b><i>Procesos Químicos y producción</i><br>Este eje temático se enfoca en el diseño y la optimización de procesos químicos para la producción de diversos productos.</li> 
-    <li><b style="color:fuchsia">Química</b><i>Contro Ambiental y Seguridad</i><br>Este eje se centro en aplicar principios químicos para abordar problemas ambientales y promover la seguridad de las industrias químicasr.</li> 
+    <li><b style="color:red">Tecnología de la Información:-</b><i>Seguridad Informática y Redes.</i><br>Este eje se centra en proteger sistemas, redes y datos contra amenazas cibernéticas. </li>
+    <li><b style="color:blue">Mecánica:-</b><i>Diseño y Manufactura</i><br>Este eje temática se centra en el diseño conceptual, modelado y fabricación de maquinarias y sistemas mecánicos. </li>
+    <li><b style="color:blue">Mecánica:-</b><i>Dinámica y control de sistemas.</i><br>Este eje tiene que ver con la exploración de el movimiento y el comportamiento de los sistemas mecánicos.</li> 
+    <li><b style="color:green">Eléctrica:-</b><i>Electrónica y sistemas embebidos.</i><br> Este eje temático se enfoca en el diseño y desarrollo de circuitos electrónicos y sistemas embebidos. </li> 
+    <li><b style="color:green">Eléctrica:-</b><i>Energía y potencia.</i><br>En este eje, consiste en la generación, transmisión y distribución de energía eléctrica, incluyendo el estudio de sistemas de energía renovable como la energía solar y eólica.</li> 
+    <li><b style="color:fuchsia">Química:-</b><i>Procesos Químicos y producción</i><br>Este eje temático se enfoca en el diseño y la optimización de procesos químicos para la producción de diversos productos.</li> 
+    <li><b style="color:fuchsia">Química:-</b><i>Contro Ambiental y Seguridad</i><br>Este eje se centro en aplicar principios químicos para abordar problemas ambientales y promover la seguridad de las industrias químicasr.</li> 
 </ol>
 
 

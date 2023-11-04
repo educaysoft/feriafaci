@@ -246,13 +246,27 @@ include_once("head.php");
 <div style="display:flex;flex-direction: column; background-color: white;">
 
 
+<?php
+include_once("congresoutlvte-datosclaves.php");
+?>
+
 
 <?php
-include_once("evento.php");
+include_once("congresoutlvte-ejestematicos.php");
 ?>
 
 <?php
-include_once("congresoutlvte-foros.php");
+include_once("saludo.php");
+?>
+
+<?php
+include_once("congresoutlvte-album0.php");
+?>
+
+
+
+<?php
+include_once("evento.php");
 ?>
 
 
@@ -267,28 +281,8 @@ include_once("congresoutlvte-objetivo.php");
 
 
 
-<?php
-include_once("saludo.php");
-?>
-
-<?php
-include_once("congresoutlvte-album0.php");
-?>
 
 
-
-<?php
-include_once("congresoutlvte-ejestematicos.php");
-?>
-
-
-<?php
-//include_once("cuenta-regresiva.php");
-?>
-
-<?php
-include_once("congresoutlvte-datosclaves.php");
-?>
 
 
 
