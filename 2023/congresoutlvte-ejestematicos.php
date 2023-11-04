@@ -82,15 +82,14 @@
 
  <div class="my-3 p-3 bg-body rounded shadow-sm">
 <ol id="lista5">
-    <li> Responsabilidad social empresarial.<br><b>Coordinador:</b> Ing. Carlos Rivas Vallejo, Mgtr.</li>
-    <li>Calidad de la Gestión Innovadora y disruptiva de los negocios.<br><b>Coordinadora:</b> Ing. Olga Quiñonez Guagua, PhD.
-  </li>
-    <li>Tecnología y su relación con el crecimiento y el desarrollo económico.<br><b>Coordinador:</b> Ing. Carlos Holguin Cedeño, Mgtr. </li>
-    <li>Economía del siglo XXI economía circular y en colores.<br><b>Coordinador:</b> Ing. Jorgeli Ayovi Caicedo, Mgtr.</li> 
-    <li>Rol de los escenarios actuales de la empresa pública y privada.<br><b>Coordinador:</b> Ing. Luis Canchingre Bone, Mgtr. </li> 
-    <li>Movilidad y seguridad humana en el desarrollo económico.<br><b>Coordinador:</b> Dr. Patricio Arce Minda, Mgtr.
- List item</li> 
-    <li> Liderazgo, comunicación interna y Cultura Organizacional.<br><b>Coordinadora:</b> Ing. Romina Oyarvide Ibarra, Mgtr.</li> 
+    <li> <b>Tecnología de la Información</b><i> Desarrollo de Software y Aplicaciones.</i><br> Este eje temático se enfoca en el diseño, desarrollo y mantenimiento de software y aplicaciones para diversas plataformas y dispositivos.</li>
+    <li><b>Tecnología de la Información</b><i>Seguridad Informática y Redes.</i><br>Este eje se centra en proteger sistemas, redes y datos contra amenazas cibernéticas. </li>
+    <li><b>Mecánica</b><i>Diseño y Manufactura</i><br>Este eje temática se centra en el diseño conceptual, modelado y fabricación de maquinarias y sistemas mecánicos. </li>
+    <li><b>Mecánica</b><i>Dinámica y control de sistemas.</i><br>Este eje tiene que ver con la exploración de el movimiento y el comportamiento de los sistemas mecánicos.</li> 
+    <li><b>Eléctrica</b><i>Electrónica y sistemas embebidos.</i><br> Este eje temático se enfoca en el diseño y desarrollo de circuitos electrónicos y sistemas embebidos. </li> 
+    <li><b>Eléctrica</b><i>Energía y potencia.</i><br>En este eje, consiste en la generación, transmisión y distribución de energía eléctrica, incluyendo el estudio de sistemas de energía renovable como la energía solar y eólica.</li> 
+    <li><b>Química</b><i>Procesos Químicos y producción</i><br>Este eje temático se enfoca en el diseño y la optimización de procesos químicos para la producción de diversos productos.</li> 
+    <li><b>Química</b><i>Contro Ambiental y Seguridad</i><br>Este eje se centro en aplicar principios químicos para abordar problemas ambientales y promover la seguridad de las industrias químicasr.</li> 
 </ol>
 
 
