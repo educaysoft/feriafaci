@@ -250,6 +250,7 @@ include_once("head.php");
 <?php
 include_once("evento.php");
 ?>
+
 <?php
 include_once("congresoutlvte-foros.php");
 ?>
@@ -260,10 +261,6 @@ include_once("congresoutlvte-foros.php");
 
 <?php
 include_once("congresoutlvte-objetivo.php");
-?>
-
-<?php
-//include_once("congresoutlvte-slide.php");
 ?>
 
 
