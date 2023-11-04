@@ -309,14 +309,14 @@ include_once("evento.php");
 
 
 <?php
-include_once("congresoutlvte-cursos.php");
+//include_once("congresoutlvte-cursos.php");
 ?>
 
 
 
 
 <?php
-include_once("congresoutlvte-ponentesi.php");
+//include_once("congresoutlvte-ponentesi.php");
 ?>
 
 
@@ -328,7 +328,7 @@ include_once("congresoutlvte-precios.php");
 
 
 <?php
-include_once("congresoutlvte-albun.php");
+//include_once("congresoutlvte-albun.php");
 ?>
 
 

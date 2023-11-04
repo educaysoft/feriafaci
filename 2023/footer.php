@@ -1,5 +1,5 @@
 <div id="footer" style="background-color: white;"> 
-  
+<!----  
 <div style="border-top:2px solid green;margin-top: 20px;">
   <div style="width: 100%;height: 200px;  padding:40px; display:flex; justify-content:  space-between;">  
 
@@ -63,7 +63,7 @@
 
 </div>
 </div>
-
+--->
 <div style="margin-left:20px;border-top:2px solid green;margin-top: 10px;">
   <div style="padding:20px">  
 

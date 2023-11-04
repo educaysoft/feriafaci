@@ -77,7 +77,7 @@
 
  <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">¿Cómo participar?</h1>
+        <h1 class="fw-light">¿Quienes participan?</h1>
         <p class="lead text-muted">Puedes participar en cualquiera de la 5 modalidades de forma <b>GRATUITA</b>.</p>
       </div>
     </div>
@@ -88,11 +88,11 @@
     
 
 <ol id="lista3">
-    <li>Coordinador/a de una mesa</li>
-    <li>Ponente de la presentación</li>
-    <li>Expositor/a Poster</li>
-    <li>Expositor/a Afiches</li>
-    <li>Asistente</li>
+    <li>Docentes investigadores</li>
+    <li>Estudiantes de cualquier nivel  </li>
+    <li>Empresas externas</li>
+    <li>Auspiciantes</li>
+    <li>Personas invitadas</li>
 </ol>
 
 
