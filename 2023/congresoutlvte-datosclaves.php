@@ -91,9 +91,8 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
      <!---   <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg> -->
         <div>
-          <h4 class="fw-bold mb-0">Presentación de Proyectos cientíticos</h4>
+          <h4 class="fw-bold mb-0">Exposición de Proyectos cientíticos</h4>
           <p>08 de septiembre del 2023.<br>
-          <a href="congresoutlvte-normas.php">Ver normativas</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -102,12 +101,13 @@
         <div>
           <h4 class="fw-bold mb-0">Eje temáticos</h4>
           <p>Hasta el 15 de agosto del 2023.</p>
+          <a href="https://congresoutlvte.org/feriafaci/2023#ejetematico">Ver ejes</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Presentación de los proyectos</h4>
+          <h4 class="fw-bold mb-0">Exposición de proyectos</h4>
           <p>Hasta el 03 de septiembre del 2023. <br>
 <a  href="https://docs.google.com/forms/d/e/1FAIpQLSfs_lEPqL6olDpVWh7Dwfbpfhxypkv9_4uRixUaG9pY00JfKA/viewform?usp=sf_link">Inscribete ya </a></p>
         </div>

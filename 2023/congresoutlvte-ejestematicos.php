@@ -80,7 +80,7 @@
 
 
 
- <div class="my-3 p-3 bg-body rounded shadow-sm">
+ <div class="my-3 p-3 bg-body rounded shadow-sm" id="ejetematico">
 <ol id="lista5">
     <li> <b style="color:red" >Tecnología de la Información :-</b>  <i> Desarrollo de Software y Aplicaciones.</i><br> Este eje temático se enfoca en el diseño, desarrollo y mantenimiento de software y aplicaciones para diversas plataformas y dispositivos.</li>
     <li><b style="color:red">Tecnología de la Información:-</b><i>Seguridad Informática y Redes.</i><br>Este eje se centra en proteger sistemas, redes y datos contra amenazas cibernéticas. </li>
