@@ -82,7 +82,7 @@
 
  <div class="my-3 p-3 bg-body rounded shadow-sm">
 <ol id="lista5">
-    <li> <b>Tecnología de la Información</b><i> Desarrollo de Software y Aplicaciones.</i><br> Este eje temático se enfoca en el diseño, desarrollo y mantenimiento de software y aplicaciones para diversas plataformas y dispositivos.</li>
+    <li> <b style="color:red" >Tecnología de la Información :-</b>  <i> Desarrollo de Software y Aplicaciones.</i><br> Este eje temático se enfoca en el diseño, desarrollo y mantenimiento de software y aplicaciones para diversas plataformas y dispositivos.</li>
     <li><b>Tecnología de la Información</b><i>Seguridad Informática y Redes.</i><br>Este eje se centra en proteger sistemas, redes y datos contra amenazas cibernéticas. </li>
     <li><b>Mecánica</b><i>Diseño y Manufactura</i><br>Este eje temática se centra en el diseño conceptual, modelado y fabricación de maquinarias y sistemas mecánicos. </li>
     <li><b>Mecánica</b><i>Dinámica y control de sistemas.</i><br>Este eje tiene que ver con la exploración de el movimiento y el comportamiento de los sistemas mecánicos.</li> 
