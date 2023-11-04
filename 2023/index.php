@@ -259,9 +259,15 @@ include_once("congresoutlvte-ejestematicos.php");
 include_once("saludo.php");
 ?>
 
+
+
 <?php
-include_once("congresoutlvte-album0.php");
+include_once("congresoutlvte-album2.php");
 ?>
+
+
+
+
 
 
 
@@ -274,7 +280,7 @@ include_once("evento.php");
 
 
 <?php
-include_once("congresoutlvte-objetivo.php");
+//include_once("congresoutlvte-objetivo.php");
 ?>
 
 
@@ -288,16 +294,16 @@ include_once("congresoutlvte-objetivo.php");
 
 
 <?php
-include_once("inblue.php");
+//include_once("inblue.php");
 ?>
 
 <?php
-include_once("congresoutlvte-album.php");
+//include_once("congresoutlvte-album.php");
 ?>
 
 
 <?php
-include_once("congresoutlvte-precios.php");
+//include_once("congresoutlvte-precios.php");
 ?>
 
 
@@ -327,11 +333,7 @@ include_once("congresoutlvte-albun.php");
 
 
 <?php
-include_once("congresoutlvte-album2.php");
-?>
-
-<?php
-include_once("congresoutlvte-album3.php");
+//include_once("congresoutlvte-album3.php");
 ?>
 
 
