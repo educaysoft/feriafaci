@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>IV Congreso Internacional Ciencias Administrativas y Economicas</title>
+<title>Feria de Ciencias FACI 2023</title>
 	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<meta name="description" content="Feria de Ciencias FACI 2023" />
 	<meta property="og:locale" content="es_EC" />

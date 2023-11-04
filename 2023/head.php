@@ -6,7 +6,7 @@
 <nav class="navbar bg-light" aria-label="Light offcanvas navbar" style="z-index:7; ">
     <div class="container-xxl">
 <a class="navbar-brand" href="https://congresoutlvte.org/facae/2023/" target="_blank">
-<img src="https://congresoutlvte.org/facae/2023/images/logocongreso.png" alt="..." height="45">
+<img src="images/logofaci.jpg" alt="..." height="45">
 
     </a>
 <a class="navbar-brand" href="https://www.utelvt.edu.ec/site/" target="_blank">
