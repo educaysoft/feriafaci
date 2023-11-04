@@ -2,7 +2,7 @@
 <div id="fsaludo" style="border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; display: flex; flex-direction:column ; ">
 
 <div  style="color:white; padding: 10px;">
-       <center>SALUDOS DE BIENVENIDA AL  IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS  - FACAE-UTLVTE 2023.</center>
+       <center>PRESENTACIÓN DE LOS PROYECTOS POR PARTE DE SUS CREADORES.</center>
             </div>
 
 

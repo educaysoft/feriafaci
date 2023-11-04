@@ -20,13 +20,13 @@
 
 <div class="col">
           <div class="card shadow-sm">
-            <img src="images/AlavaCedenoMarisol.png">
+            <img src="images/Proyecto1.png">
 
             <div class="card-body">
-              <p class="card-text"><strong>Cedeño Alava  Marisol</strong>  <br>1.-Responsabilidad social empresarial.&nbsp</p>
+              <p class="card-text"><strong>SIGECA</strong>  <br>1.-Sistema Integrado para la Gestión de la Educación y el Conocimiento Académico.&nbsp</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
+                   <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">INFORME</button>
                   <button disabled onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
               </div>
