@@ -23,18 +23,32 @@
             <img src="images/proyectos/electrica1.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>SISTEMAS DETECTOR DE MEMTIRAS</strong>  <br>1.-Consiste en un circuito detector de mentiras a partir de la conductancia de la piel.&nbsp</p>
+              <p class="card-text"><strong>SISTEMAS DETECTOR DE MENTIRAS</strong>  <br>1.-Consiste en un circuito detector de mentiras a partir de la conductancia de la piel.&nbsp</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">INFORME</button>
-                  <button disabled onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                  <button  onclick="location.href=' https://youtu.be/ZWPmOHTr24k'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
               </div>
             </div>
           </div>
         </div>
 
-        
+ <div class="col">
+          <div class="card shadow-sm">
+            <img src="images/proyectos/proyecto2.jpg">
+
+            <div class="card-body">
+              <p class="card-text"><strong>VEHICULO AUTONOMO</strong>  <br>1.-Un vehículo autónomo capaza de esquivar obstaculo gracias a sensores.&nbsp</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                   <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">INFORME</button>
+                  <button onclick="location.href='https://youtu.be/WXhvyOoYzr0'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>       
         
 
 

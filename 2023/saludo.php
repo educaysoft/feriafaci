@@ -22,7 +22,7 @@
       <div class="thumb"><img src="images/proyectos/proyecto3.jpg" onclick="video1()"  /></div>
       <div class="thumb"><img src="images/proyectos/proyecto4.jpg"  onclick="video5()" /></div>
      <div class="thumb"><img src="images/proyectos/proyecto6.png" onclick="video3()"  /></div> 
- <!--      <div class="thumb"><img src="images/saludos/EnrriqueMarmol.jpg" onclick="video4()"  /></div> -->
+      <div class="thumb"><img src="images/proyectos/sigeca.png" onclick="video4()"  /></div> 
    <!----
             <div class="thumb"><img src="saludos/saludo6.png" onclick="video6()" /></div>
             <div class="thumb"><img src="saludos/VlucherQuinteroSaludos.jpg" onclick="video7()" /></div>
@@ -62,9 +62,11 @@ function video1() {
 }
 
 
+
+
 function video4() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src="https://www.youtube.com/embed/dLyy77UY0qE?si=9R7B56FDYZsgfjzN";
+    elsaludo.src="https://www.youtube.com/embed/_0N8-RU1d1E?si=LCqkQoljhzIlmZMB";
 }
 
 
