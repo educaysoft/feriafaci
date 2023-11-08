@@ -262,7 +262,19 @@ include_once("saludo.php");
 
 
 <?php
-include_once("congresoutlvte-album2.php");
+include_once("proyectos-cti.php");
+?>
+
+<?php
+include_once("proyectos-mecanica.php");
+?>
+
+<?php
+include_once("proyectos-quimica.php");
+?>
+
+<?php
+include_once("proyectos-electricidad.php");
 ?>
 
 
@@ -346,10 +358,6 @@ include_once("congresoutlvte-precios.php");
 include_once("congresoutlvte-comites.php");
 ?>
 
-
-<?php
-include_once("congresoutlvte-comites2.php");
-?>
 
 
 

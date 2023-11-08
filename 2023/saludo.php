@@ -11,15 +11,16 @@
 
 <div   style="margin-left:10px; margin-top:10px;  padding: 10px; height: 480px;">
 
-<iframe id="vsaludos" height="360px" width="640px" src="https://www.youtube.com/embed/cj1f5GOAsqc?si=Z_WbBxQJ2xBmA6k_"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border: 0; width: 100%; height: 100%"></iframe>
+
+<iframe id="vsaludos" height="360px" width="640px" src="https://www.youtube.com/embed/DLTINACVgZg?si=K-ITQe8hW2oTqjZJ"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border: 0; width: 100%; height: 100%"></iframe>
 
 </div>
     <div>      
         <!--thumbnails-->
         <div id="thumbs">
-            <div class="thumb"><img src="images/saludos/DecanaFacae.jpg" onclick="video0()"  /></div>
-      <div class="thumb"><img src="images/saludos/Vicerrectora.jpg" onclick="video1()"  /></div>
-      <div class="thumb"><img src="images/saludos/VicerrectorInvestigacion.jpg"  onclick="video5()" /></div>
+            <div class="thumb"><img src="images/proyectos/proyecto2.jpg" onclick="video0()"  /></div>
+      <div class="thumb"><img src="images/proyectos/proyecto3.jpg" onclick="video1()"  /></div>
+      <div class="thumb"><img src="images/proyectos/proyecto4.jpg"  onclick="video5()" /></div>
       <div class="thumb"><img src="images/saludos/LuisRenginfo.jpg" onclick="video3()"  /></div>
       <div class="thumb"><img src="images/saludos/EnrriqueMarmol.jpg" onclick="video4()"  /></div>
    <!----
@@ -40,10 +41,9 @@ function image() {
         elsaludo.src="https://www.youtube.com/embed/cj1f5GOAsqc?si=Z_WbBxQJ2xBmA6k_";
 }
 
-
 function video0() 	{
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src="https://www.youtube.com/embed/_oR3LVLpBdc";
+    elsaludo.src="https://www.youtube.com/embed/WXhvyOoYzr0?si=uzeHgZ3b134is4eV";
 }
 
 
@@ -53,9 +53,11 @@ function video3() {
         elsaludo.src="https://www.youtube.com/embed/9dN5JzKwxos"
 }
 
+
+
 function video1() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src="https://www.youtube.com/embed/_nckQT_n4-8";
+    elsaludo.src="https://www.youtube.com/embed/ZWPmOHTr24k?si=Kf-RTfnrZagOcb36";
 }
 
 
@@ -67,10 +69,9 @@ function video4() {
 
 
 
-
 function video5() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src="https://www.youtube.com/embed/_qkdabnUmUA";
+    elsaludo.src="https://www.youtube.com/embed/jImmqUAfGp4?si=mYMZv04PkuYTTXUj";
 }
 
 

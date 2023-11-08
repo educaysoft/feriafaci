@@ -9,72 +9,50 @@
   <main>
 
   <p><span class="nombre">Dr. Sc. Girald David Vernaza Arroyo. PhD.</span><br> 
-<i style="color: blue">PRESIDENTE DEL CONGRESO</i><br>  
 Rector de la UTLVTE</p>
 
   <p><span class="nombre">Ing. Manuel Quiñonez Cabeza. PhD.</span><br> 
-<i style="color: blue">PRIMER VICE-PRESIDENTE</i><br>  
   Vicerrector de Investigación y Postgrado</p>
   
 
 <p> <span class="nombre">Ing. Elizabeth Canchingre Bone. PhD.</span><br> 
-<i style="color: blue">SEGUNDA VICE-PRESIDENTA</i><br>  
   Vicerrectora Académica de la UTLVTE<br>
 
-  <p><span class="nombre">Ing. Mariuxi Guijarro Cagua, PhD.</span><br> 
-<i style="color: blue">COORDINADORA GENERAL</i><br>  
-  Decana de la FACAE-UTLVTE</p>
+  <p><span class="nombre">Ing. Lenin Montaño.</span><br> 
+<i style="color: blue">COORDINADOR GENERAL</i><br>  
+  Decano de la FACI</p>
 
 
   </main>
 </div>
 <div>
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COORDINADOR GENERAL DEL EVENTO</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>ORGANIZADORES DEL EVENTO</b></p>
   </header>
   <main>
 
-  <p><span class="nombre">Ing. Mariuxi Guijarro Cagua, PhD.</span><br> 
+  <p><span class="nombre">Ing. Guillermo Cedeño.</span><br> 
   <span class="nombre">Ing. Jorge Enrrique Salazar Sánchez, MBA.</span></p> 
 
 
 </main>
 </div>
 
-<div>
-  <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>ASESOR RELATOR ACADÉMICO</b></p>
-  </header>
-  <main>
-  <p><span class="nombre">Ing. Marco Raúl Quinteros González, Mgtr.</span></p> 
 
-</main>
-</div>
 
-<div>
-  <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>RESPONSABLES DE LA LOGÍSTICA</b></p>
-  </header>
-  <main>
 
-  <p><span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span><br> 
-  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgtr.</span><br> 
-  <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span><br> 
-  <span class="nombre">Ing. Elaine Yanin Tenorio Canchingre, Mgtr.</span><br> 
-  <span class="nombre">Ing. Ana Lucia Quintana Lovato, Mgtr.</span><br> 
-  <span class="nombre">Ing. Jazmina Andrea Reina Zambrano, Mgtr.</span></br> 
-  <span class="nombre">Ing. Mercedes Magdalena Bustos Gámez, Mgtr.</span></p> 
-
-</main>
-</div>
 
 </div>
 
 <div style="float:left; width: 20%;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ CIENTÍFICO</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>TECNOLOGÍA DE LA INFORMACIÓN</b></p>
 
   </header>
+<main>
+<i style="color: blue">DIRECTOR DE CARRERA</i></p>  
+<p><span class="nombre">Ing. Stalin Francis Q.</span></br> 
+</main>
   <main>
 
 
@@ -84,8 +62,8 @@ Rector de la UTLVTE</p>
 
   
 
-   <p  class="badge bg-primary text-wrap" >Miembros</p>
- <p class="nombre">  Dra. Yorbet Montes de Oca Rojas, PhD.<br><span class="text-primary">(Universidad de Zulia, Venezuela)</span></p>
+   <p  class="badge bg-primary text-wrap" >Proyecto #1</p>
+ <p class="nombre">  Docente mentors de Oca Rojas, PhD.<br><span class="text-primary">(Docente mentor)</span></p>
  <p class="nombre">  Dra. Nayade Caridad Reyes Palau, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas, Ecuador)</span></p>
 
 
@@ -102,8 +80,14 @@ Rector de la UTLVTE</p>
 <div style="float:left; width: 20%; padding-right:10px;">
 <div>
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ ORGANIZADOR</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>MECÁNICA</b></p>
   </header>
+<main>
+<i style="color: blue">DIRECTOR DE CARRERA</i></p>  
+<p><span class="nombre">Ing. Santiago Quintero.</span></br> 
+</main>
+
+
   <main>
 
   <p><span class="nombre">Dr. Pablo Aníbal Minda Batallas, PhD..</span><br>
@@ -162,8 +146,12 @@ Mundial</p>
 
 <div>
   <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COLOQUIO ESTUDIANTIL</b></p>
+    <p style="margin-bottom: 10px; margin-top:10px;" ><b>ELÉCTRICA</b></p>
   </header>
+  <main>
+<i style="color: blue">DIRECTOR DE CARRERA</i></p>  
+<p><span class="nombre">Ing. Nayzer Mina.</span></br> 
+</main>
 
   <main>
 
@@ -241,17 +229,11 @@ Mundial</p>
 <div style="float:left; width: 20%;">
 <div>
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN ACADÉMICA</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>QUÍMICA</b></p>
   </header>
   <main>
-<p> <span class="nombre">Abg. Félix Segundo Rosales Cortes, PhD.</span><br> 
-<i style="color: blue">COORDINADOR ACADÉMICO</i></p>  
-<p><span class="nombre">Dr. Julio Alfonso Murgueitto Montenegro. PhD.</span></br> 
-<span class="nombre">Dr. Pablo Domingo Vilela Mera, PhD.</span></br> 
-<span class="nombre">Dra. Marisol del Rocio Alava Cedeñó, Mgtr.</span></br> 
-<span class="nombre">Dr. Gustavo Darío Robles Quiñónez</span></p> 
-
-
+<i style="color: blue">DIRECTOR DE CARRERA</i></p>  
+<p><span class="nombre">Ing. Guillermo Mosquera.</span></br> 
 </main>
 </div>
 <div>
