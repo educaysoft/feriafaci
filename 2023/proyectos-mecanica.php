@@ -10,7 +10,7 @@
 
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Carrera Mecanica</h1>
+        <h1 class="fw-light">Carrera Mecánica</h1>
 	<!--- <p class="lead text-muted">5 proyecto científicos de las carreras de Tecnología de la Información.</p> -->
       </div>
     </div>

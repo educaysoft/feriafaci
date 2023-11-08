@@ -68,7 +68,7 @@
 
 <div class="col">
           <div class="card shadow-sm">
-            <img src="images/Proyecto4.png">
+            <img src="images/proyectos/informatica4.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Revista Digital</strong> <br>4.-Revista Informativa Digital para la UTLVTE.</p>
