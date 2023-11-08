@@ -32,7 +32,6 @@ Rector de la UTLVTE</p>
   <main>
 
   <p><span class="nombre">Ing. Guillermo Cedeño.</span><br> 
-  <span class="nombre">Ing. Jorge Enrrique Salazar Sánchez, MBA.</span></p> 
 
 
 </main>
@@ -45,6 +44,7 @@ Rector de la UTLVTE</p>
 </div>
 
 <div style="float:left; width: 20%;">
+<div>
   <header>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>TECNOLOGÍA DE LA INFORMACIÓN</b></p>
 
@@ -53,28 +53,35 @@ Rector de la UTLVTE</p>
 <i style="color: blue">DIRECTOR DE CARRERA</i></p>  
 <p><span class="nombre">Ing. Stalin Francis Q.</span></br> 
 </main>
+
+</div>
+<div>
+  <header>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>PROYECTOS</b></p>
+  </header>
   <main>
 
+   <p  class="badge bg-primary text-wrap" > 1: PROYECTO 1</p>
+  <p><span class="nombre">Docente: Nombre del docente mentor.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
 
-  <p><span class="nombre">Dr. José Armando Estrada Hernández, PhD.</span><br> 
-<i style="color: blue">Presidente del Comité Científico Internacional</i><br>  
-  (Universidad de Oriente, Santiago de Cuba)</p>
-
+   <p  class="badge bg-primary text-wrap" > 2: PREYECTO 2</p>
+  <p><span class="nombre">Docente: Nombre del docente mentor.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
   
-
-   <p  class="badge bg-primary text-wrap" >Proyecto #1</p>
- <p class="nombre">  Docente mentors de Oca Rojas, PhD.<br><span class="text-primary">(Docente mentor)</span></p>
- <p class="nombre">  Dra. Nayade Caridad Reyes Palau, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas, Ecuador)</span></p>
-
-
-  <p class="nombre">Ing. Olga jackeline Quiñonez Guagua, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
-
-
-  <p class="nombre">Ing. Harold Paúl Oyarvide Ramiréz, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
 
 
   </main>
+</div>
+
 </div>
 
 <div style="float:left; width: 20%; padding-right:10px;">
@@ -86,58 +93,32 @@ Rector de la UTLVTE</p>
 <i style="color: blue">DIRECTOR DE CARRERA</i></p>  
 <p><span class="nombre">Ing. Santiago Quintero.</span></br> 
 </main>
-
-
-  <main>
-
-  <p><span class="nombre">Dr. Pablo Aníbal Minda Batallas, PhD..</span><br>
- Director de Investigación UTLVTE </p> 
-
-  <p><span class="nombre">Dr. Harold Paúl Oyarvide Ramírez, PhD.</span><br>
-(UTLVTE)</p>
-
-  <p><span class="nombre">Dr. Félix Segundo Rosales Cortes, PhD.</span><br>
-(UTLVTE)</p>
-
-
-  <p><span class="nombre">Ing. Walter Edgar Saavedra Segura, Mgtr.</span><br>
-(UTLVTE)</p>
-
-
-  <p><span class="nombre">Ing. Ana Lucía Quintana Lovato, Mgtr.</span><br>
-(UTLVTE)</p>
-
-
-  <p><span class="nombre">Lic. Carlos Andrés Holguin Cedeño, Mgtr.</span><br>
-(UTLVTE)</p>
-
-(UTLVTE)</p>
-</main>
 </div>
 
 <div>
-
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>FORO INTERNACIONAL</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>PROYECTOS</b></p>
   </header>
   <main>
 
-   <p  class="badge bg-primary text-wrap" > Tema: Talento Humano</p>
+   <p  class="badge bg-primary text-wrap" > 1: PROYECTO 1</p>
+  <p><span class="nombre">Docente: Nombre del docente mentor.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
 
-  <p><span class="nombre">Ing. Jazmina Andrea Reina Zambrano, Mgtr.</span><br> 
-  <span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span><br> 
-  <span class="nombre">Ing. Ana Lucia Quintana Lovato, Mgtr.</span><br> 
-  <span class="nombre">Ing. Yimabel del Rocío Cortes Arce, Mgtr.</span><br> 
-  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgtr.</span><br> 
+   <p  class="badge bg-primary text-wrap" > 2: PREYECTO 2</p>
+  <p><span class="nombre">Docente: Nombre del docente mentor.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  
 
 
-   <p  class="badge bg-primary text-wrap" > Tema: Geopolítico
-Mundial</p>
-  <p><span class="nombre">Dr. Félix Segundo Rosales Cortes, PhD.</span><br> 
-  <span class="nombre"> Ing. Walter Edgar Saavedra Segura. Mgtr.</span><br>
-  <span class="nombre"> Ing. Gorqui Augusto Estupiñan Vivas.</span><br>
-  <span class="nombre"> Ing. Gustavo Roberto Castillo Ruano, Mgtr.</span><br>
-  <span class="nombre"> Eco. Jorge Antonio Merchán Rumbea.</span></p>
+
   </main>
 </div>
 </div>
@@ -152,77 +133,35 @@ Mundial</p>
 <i style="color: blue">DIRECTOR DE CARRERA</i></p>  
 <p><span class="nombre">Ing. Nayzer Mina.</span></br> 
 </main>
-
+</div>
+<div>
+  <header>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>PROYECTOS</b></p>
+  </header>
   <main>
 
-  <p><span class="nombre">Dr. Alfredo Plaza Castillo,PhD.</span><br>
-  <p> <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span><br> 
-  <span class="nombre">Ing. Jesús Alfredo Gómez Ladines, Mgtr.</span><br>
-  <span class="nombre">Ing. Elaine Yanin Tenorio Canchingre, Mgtr.</span><br>
-  <span class="nombre">Ing. Ronny Angulo Guerrero.</span><br>
-  <span class="nombre">Ing. Amy Triviño Diaz.</span><br>
-  <span class="nombre">Abg. Nahomy Olaya Chere.</span></p> 
+   <p  class="badge bg-primary text-wrap" > 1: PROYECTO 1</p>
+  <p><span class="nombre">Docente: Nombre del docente mentor.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
 
-<p> <span class="nombre">Estudiante Cesar Augusto Rivadeneira Mendoza.</span><br>
-(CARRERA DE ADMINISTRACIÓN)</p>
-
-<p> <span class="nombre">Estudiante Anallely Mercedes Mora Robinson.</span><br>
-(CARRERA DE COMERCIO)</p>
-
+   <p  class="badge bg-primary text-wrap" > 2: PREYECTO 2</p>
+  <p><span class="nombre">Docente: Nombre del docente mentor.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
   </main>
 </div>
 
 
 
 
-<div>
-  <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>CORDINADORES EJES TEMÁTICOS</b></p>
-  </header>
-  <main>
-<p> <span class="nombre">Dra. Marisol Alava Cedeño, Mgtr.</span><br> 
-<i style="color: blue">(Responsabilidad social y empresarial.)</i></p>
 
 
-<p> <span class="nombre">Ing. Olga Jackeline Quiñonez Guagua, PhD.</span><br> 
-<i style="color: blue">(Calidad de la Gestión Innovadora y disruptiva de los negocios.)</i></p>
-
-<p> <span class="nombre">Lic. Carlos Andrés Holguin Cedeño, Msg.</span><br> 
-<i style="color: blue">(Tecnologías y su relación con el crecimiento y el desarrollo económico.)</i></p>
-
-
-<p> <span class="nombre">Ing. Jorgeli Ayoví Caicedo, Mgtr.</span><br> 
-<i style="color: blue">(Economía del siglo XXI, economía circular y en colores.)</i></p>
-
-
-<p> <span class="nombre">Ing. Luis Aldimir Canchingre Bone, Mgtr.</span><br> 
-<i style="color: blue">(Rol de los escenarios actuales de la empresa pública y privada.)</i></p>
-
-
-<p> <span class="nombre">Ing. Patricio Marcelo Arce Minda, Mgtr.</span><br> 
-<i style="color: blue">(Movilidad y seguridad humana en el desarrollo económico.)</i></p>
-
-
-<p> <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span><br> 
-<i style="color: blue">(Liderazgo, comunicación interna y cultura organizacional.)</i></p>
-
-
-</main>
-</div>
-
-<div>
-  <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>RESPONSABLE DE LA PUBLICACIÓN</b></p>
-  </header>
-
-  <main>
-  <p><span class="nombre">Dr. Pablo Aníbal Minda Batallas, PhD.</span><br>
- Director de Investigación UTLVTE </p> 
-
-  <p><span class="nombre">Ing. Mariuxi Guijarro Cagua, PhD.</span></p> 
-
-  </main>
-</div>
 
 
 </div>
@@ -238,53 +177,28 @@ Mundial</p>
 </div>
 <div>
   <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>MODERADORES</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>PROYECTOS</b></p>
   </header>
   <main>
-   <p  class="badge bg-primary text-wrap" > 1er día</p>
 
-  <p><span class="nombre">Lic. Carlos Holguín Cedeño, Mgtr.</span><br> 
-  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgtr.</span></p> 
+   <p  class="badge bg-primary text-wrap" > 1: PROYECTO 1</p>
+  <p><span class="nombre">Docente: Nombre del docente mentor.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
 
-   <p  class="badge bg-primary text-wrap" > 2do día</p>
-  <p><span class="nombre">Ing. Iván Octavio Endara Arguello, Mgtr.</span><br> 
-  <span class="nombre">Abg. Nahomy Olaya Chere.</span></p> 
-   
-   <p  class="badge bg-primary text-wrap" > 3do día</p>
-  <p><span class="nombre">Ing. Walter Edgar Saavedra Segura, Mgtr.</span><br>
-  <span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span></p> 
-
+   <p  class="badge bg-primary text-wrap" > 2: PREYECTO 2</p>
+  <p><span class="nombre">Docente: Nombre del docente mentor.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
+  <span class="nombre">Nombre de estudiante participante.</span><br> 
   </main>
 </div>
-<div>
-  <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN DE COMUNICACIONES</b></p>
-  </header>
-  <main>
-<p><span class="nombre">Ing. Elaine Yanin Tenorio Canchingres, MsC.</span></br> 
-<span class="nombre">Ing. Ana Lucía Quintana Lovato, Mgtr.</span></br> 
-<span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span></p> 
 
 
-</main>
-</div>
-
-
-
-
-<div>
-  <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ TÉCNICO</b></p>
-  </header>
-  <main>
-
-  <span class="nombre">Ing. Stalin Francis Quinde, MsC.</span><br> 
-  <span class="nombre">Lic. Carlos Holguín Cedeño, Mgtr.</span><br> 
-  <span class="nombre">Lic. Daniel Requene Chichande.</span><br> 
-   
-
-  </main>
-</div>
 </div>
 
 

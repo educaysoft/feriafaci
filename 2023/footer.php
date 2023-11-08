@@ -71,15 +71,9 @@
       <a href="https://www.utelvt.edu.ec/site/"><img src="images/LogoEducacionContinua.png" width="100vw" height="100vh"></a>
 
     </div>
-<div style="float:left; padding:0.5vw; ">
-      <a href="https://www.facebook.com/profile.php?id=100064286761352"><img src="images/lideca.jpg" width="100vw" height="100vh"></a>
 
-    </div>
 
-<div style="float:left; padding:0.5vw; ">
-      <a href="https://inblueditorial.com/"><img src="images/inblue.png" width="100vw" height="100vh"></a>
 
-    </div>
 
 
 <!-----
@@ -219,12 +213,14 @@
 
 	<div style="color: black; height: 100%; width: 30%; display:flex; justify-content: center;  ">
 	    <ul style="margin:0; padding:0;" class="icons">
-	    <li><a href="congresoutlvte-presentacion.php">Presentación</a></li>
-	    <li><a href="#">Agenda</a></li>
-	    <li><a href="congresoutlvte-normas.php">Normativas</a></li>
-	    <li><a href="congresoutlvte-todocomite.php">Miembros del comite</a></li>
-	    <li><a href="congresoutlvte-memoria.php" >Memoria de evento</a></li>
-	    <li><a href="congresoutlvte-PoliticaPrivacidad.php">Política de privacidad</a></li>
+	    <li><a href="#">Inicio</a></li>
+	    <li><a href="https://maps.google.com/?q=0.972482, -79.666347">Lugar del evento</a></li>
+	    <li><a href="#tic">Proyecto TIC</a></li>
+	    <li><a href="#mecanica">Proyectos Mecánica</a></li>
+	    <li><a href="#quimica" >Proyectos Química</a></li>
+	    <li><a href="#electrica">Proyectos Eléctrica</a></li>
+	    <li><a href="#videos">Video</a></li>
+	    <li><a href="#ejes">Ejes temáticos</a></li>
 	    </ul>
 	</div>
 

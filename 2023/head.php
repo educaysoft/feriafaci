@@ -23,43 +23,32 @@
         <div class="offcanvas-body">
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="https://congresoutlvte.org/facae/2023">Inicio</a>
+              <a class="nav-link active" aria-current="page" href="#">Inicio</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#seccion1">Presentación</a>
+              <a class="nav-link" href="https://maps.google.com/?q=0.972482, -79.666347">Lugar del evento</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="congresoutlvte-normas.php">Normativa</a>
+              <a class="nav-link" href="#videos">Videos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Agenda</a>
+              <a class="nav-link" href="#">Ejes temáticos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="congresoutlvte-tematicas.php">Temática</a>
+              <a class="nav-link" href="#tic">Proyectos TIC</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="congresoutlvte-conferencistas.php#">Conferencistas</a>
+              <a class="nav-link" href="#mecanica">Proyectos Mecánica</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="congresoutlvte-memoria.php#">Memoria</a>
+              <a class="nav-link" href="#quimica">Proyectos Química</a>
             </li>
-
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Repositorio
-              </a>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Certificado</a></li>
-                <li><a class="dropdown-item" href="congresoutlvte-memoria.php">Memoria</a></li>
-                <li><a class="dropdown-item" href="congresoutlvte-todocomite.php">Comite</a></li>
-                <li>
-                  <hr class="dropdown-divider">
-                </li>
-                <li><a class="dropdown-item" href="#">Editorial</a></li>
-              </ul>
+<li class="nav-item">
+              <a class="nav-link" href="#electrica">Proyectos Eléctrica</a>
             </li>
+            
           </ul>
           <form class="d-flex mt-3" role="search">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">

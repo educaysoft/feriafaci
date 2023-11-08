@@ -62,7 +62,7 @@
 
 
 
-<div id="equipo" style="border-top: 2px solid green;  width: 90%; margin:20px auto; display: inline-block;">
+<div id="ejes" style="border-top: 2px solid green;  width: 90%; margin:20px auto; display: inline-block;">
 <div id="xxx" class="w3-container" style="margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 100%; display: inline-block;">
     
 
@@ -98,11 +98,11 @@
 
 
     </div>
-
+<!---
     <small class="d-block text-end mt-3">
       <a href="congresoutlvte-tematicas.php">Todas las temáticas</a>
     </small>
-
+--->
   
 
 

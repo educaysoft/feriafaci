@@ -99,8 +99,6 @@
     
 
 
-<p style="font: 1.5vw 'trebuchet MS', 'lucida sans';">Los autores solo podrán presentar una ponencia o un poster o afiche científico como máximo.</p>
-<p style="font: 1.5vw 'trebuchet MS', 'lucida sans';">Como coordinador/a de una mesa de trabajo, se puede proponer mesas de trabajo de su interés y que se ajusten a los ejes temáticos de IV Congreso Internacional de Ciencias Administrativas y Económicas.</p>
 
 
 

@@ -91,8 +91,15 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
      <!---   <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg> -->
         <div>
-          <h4 class="fw-bold mb-0">Exposición de Proyectos cientíticos</h4>
+          <h4 class="fw-bold mb-0">Fecha del evento</h4>
           <p>08 de septiembre del 2023.<br>
+        </div>
+      </div>
+<div class="col d-flex align-items-start">
+        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
+        <div>
+          <h4 class="fw-bold mb-0">Lugar del evento</h4>
+          <p><a href="https://maps.google.com/?q=0.972482, -79.666347" target="_blank">Universidad Técnica Luis Vargas Torres de Esmeraldas-Ecuador.</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -100,44 +107,39 @@
         <!-- <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"/></svg> -->
         <div>
           <h4 class="fw-bold mb-0">Eje temáticos</h4>
-          <p>Hasta el 15 de agosto del 2023.</p>
-          <a href="https://congresoutlvte.org/feriafaci/2023#ejetematico">Ver ejes</a></p>
+          <p>6 ejes temáticos.</p>
+          <a href="#ejes">Ver ejes</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Exposición de proyectos</h4>
-          <p>Hasta el 03 de septiembre del 2023. <br>
-<a  href="https://docs.google.com/forms/d/e/1FAIpQLSfs_lEPqL6olDpVWh7Dwfbpfhxypkv9_4uRixUaG9pY00JfKA/viewform?usp=sf_link">Inscribete ya </a></p>
+          <p>Videos explicativos. <br>
+          <a href="https://congresoutlvte.org/feriafaci/2023#videos">mira los videos</a></p>
         </div>
       </div>
-      <div class="col d-flex align-items-start">
-        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
-        <div>
-          <h4 class="fw-bold mb-0">Lugar del evento</h4>
-          <p><a href="https://www.utelvt.edu.ec/site/" target="_blank">Universidad Técnica Luis Vargas Torres de Esmeraldas-Ecuador.</a></p>
-        </div>
-      </div>
+      
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#toggles2"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Modalidad del evento</h4>
-          <p>Presencial y Virtual (Híbrida).</p>
+          <h4 class="fw-bold mb-0">Tecnología de la Información</h4>
+          <p>Proyectos presentados.</p>
+          <a href="#tic">ver proyectos</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Ejecución del Evento</h4>
-          <p>Lunes 4, martes 5 y miercoles 6 de noviembre del 2023<br> <a href="#cursos">Más Información</a></p>
+          <h4 class="fw-bold mb-0">Mecánica</h4>
+          <p>Proyecto presentados<br> <a href="#mecanica">Ver proyectos</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#geo-fill"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Descripcion de Proyectos </h4>
-          <p>Libro de memoria,Certificados(40h), Derechos de Autor, ISBN, ISSN</p>
+          <h4 class="fw-bold mb-0">Química </h4>
+          <p>Proyecto presentados</p><a href="#quimica">Ver proyectos</a>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -145,8 +147,8 @@
 	<!--- <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#tools"/></svg> -->
 
         <div>
-          <h4 class="fw-bold mb-0">Celebración del congreso</h4>
-          <p>Lunes 4, martes 5, miercoles 6 de septiembre del 2023</p>
+          <h4 class="fw-bold mb-0">Electricidad</h4>
+          <p>Proyecto presentados</p><a href="#electrica">Ver proyectos</a>
         </div>
       </div>
     </div>

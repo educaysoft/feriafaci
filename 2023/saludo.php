@@ -1,5 +1,5 @@
 
-<div id="fsaludo" style="border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; display: flex; flex-direction:column ; ">
+<div id="videos" style="border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; display: flex; flex-direction:column ; ">
 
 <div  style="color:white; padding: 10px;">
        <center>PRESENTACIÓN DE LOS PROYECTOS POR PARTE DE SUS CREADORES.</center>
@@ -21,8 +21,8 @@
             <div class="thumb"><img src="images/proyectos/proyecto2.jpg" onclick="video0()"  /></div>
       <div class="thumb"><img src="images/proyectos/proyecto3.jpg" onclick="video1()"  /></div>
       <div class="thumb"><img src="images/proyectos/proyecto4.jpg"  onclick="video5()" /></div>
-<!--      <div class="thumb"><img src="images/saludos/LuisRenginfo.jpg" onclick="video3()"  /></div> 
-      <div class="thumb"><img src="images/saludos/EnrriqueMarmol.jpg" onclick="video4()"  /></div> -->
+     <div class="thumb"><img src="images/proyectos/proyecto6.png" onclick="video3()"  /></div> 
+ <!--      <div class="thumb"><img src="images/saludos/EnrriqueMarmol.jpg" onclick="video4()"  /></div> -->
    <!----
             <div class="thumb"><img src="saludos/saludo6.png" onclick="video6()" /></div>
             <div class="thumb"><img src="saludos/VlucherQuinteroSaludos.jpg" onclick="video7()" /></div>
@@ -48,9 +48,10 @@ function video0() 	{
 
 
 
+
 function video3() {
        var elsaludo = document.getElementById("vsaludos");
-        elsaludo.src="https://www.youtube.com/embed/9dN5JzKwxos"
+        elsaludo.src="https://www.youtube.com/embed/cj1f5GOAsqc?si=uk5msEnW-UAEBx23"
 }
 
 
