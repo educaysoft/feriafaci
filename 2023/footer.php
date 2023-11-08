@@ -71,9 +71,18 @@
       <a href="https://www.utelvt.edu.ec/site/"><img src="images/LogoEducacionContinua.png" width="100vw" height="100vh"></a>
 
     </div>
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.congresoutlvte.org/facped"><img src="images/LogoCongresoFacped.png" width="100vw" height="100vh"></a>
 
+    </div>
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.congresoutlvte.org/faci"><img src="images/LogoCongresoFaci.png" width="100vw" height="100vh"></a>
 
+    </div>
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.congresoutlvte.org/facae/2023"><img src="images/LogoCongresoFacae.png" width="100vw" height="100vh"></a>
 
+    </div>
 
 
 <!-----

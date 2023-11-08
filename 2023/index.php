@@ -10,7 +10,7 @@
 	<meta property="og:url" content="https://www.congresoute.org/" />
 	<meta property="og:site_name" content="FACULTAD DE INGENIERIAS" />
 	<meta property="article:modified_time" content="2023-12-14T21:51:01+00:00" />
-	<meta property="og:image" content="https://congresoutlvte.org/facae/2023/images/logo.png" />
+	<meta property="og:image" content="https://congresoutlvte.org/feriafaci/2023/images/logofaci.jpg" />
 	<meta property="og:image:width" content="100" />
 	<meta property="og:image:height" content="100" />
 
