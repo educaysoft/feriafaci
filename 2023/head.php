@@ -79,7 +79,7 @@
 
 
 </map>  
-<img src="images/portada1.jpg" class="img-fluid" usemap="#portada"  alt="portada">
+<img src="images/portada.jpg" class="img-fluid" usemap="#portada"  alt="portada">
 
   <div class="social">
 		<ul>

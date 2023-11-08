@@ -11,7 +11,7 @@
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">Carrera de Eléctrica</h1>
-	<p class="lead text-muted">5 proyecto científicos de las carreras de Tecnología de la Información.</p>
+<!--	<p class="lead text-muted">5 proyecto científicos de las carreras de Tecnología de la Información.</p>-->
       </div>
     </div>
 
@@ -83,42 +83,12 @@
           </div>
         </div>
 
-<div class="col">
-          <div class="card shadow-sm">
-            <img src="images/CanchingreLuis.jpg">
-
-            <div class="card-body">
-              <p class="card-text"><b>Canchingre Bone Luis</b><br>5.-Rol de los escenarios actuales de la empresa pública y privada.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button onclick="location.href='https://drive.google.com/file/d/11G1KDWITAM6KV_xKlIRnh6izpUOSE1xm/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
-                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
-                </div>
-             <!---   <small class="text-muted">9 mins</small>  -->
-              </div>
-            </div>
-          </div>
-        </div>
 
 
 
 
-<div class="col">
-          <div class="card shadow-sm">
-            <img src="images/ArcePatricio.jpg">
 
-            <div class="card-body">
-              <p class="card-text"><strong>Arce Minda Patricio</strong> <br>6.- Movilidad y seguridad humana en el desarrollo económico.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view'" disabled  type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
-                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
-                </div>
-             <!---   <small class="text-muted">9 mins</small>  -->
-              </div>
-            </div>
-          </div>
-        </div>
+
 
 
 

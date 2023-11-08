@@ -274,9 +274,8 @@ include_once("proyectos-quimica.php");
 ?>
 
 <?php
-include_once("proyectos-electricidad.php");
+include_once("proyectos-electrica.php");
 ?>
-
 
 
 
@@ -284,9 +283,8 @@ include_once("proyectos-electricidad.php");
 
 
 <?php
-include_once("evento.php");
+//include_once("evento.php");
 ?>
-
 
 
 
